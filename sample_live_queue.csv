@@ -1,0 +1,19 @@
+lead_id,lead_source,geography,created_at,demo_scheduled_at,lead_status,parent_timezone
+DEMO-001,Google,USA,2026-08-01 13:00:00,,open,America/New_York
+DEMO-002,Meta,India,2026-08-01 14:00:00,2026-08-04 10:00:00,open,Asia/Kolkata
+DEMO-003,Referral,UK,2026-08-01 18:00:00,,open,Europe/London
+DEMO-004,Organic,Australia,2026-08-01 19:00:00,,open,Australia/Sydney
+DEMO-005,Affiliate,UAE,2026-08-02 00:00:00,2026-08-05 08:00:00,open,Asia/Dubai
+DEMO-006,DSA,Vietnam,2026-08-02 12:00:00,,open,Asia/Ho_Chi_Minh
+DEMO-007,Google,Singapore,2026-08-02 13:00:00,,open,Asia/Singapore
+DEMO-008,New-source,New-market,2026-08-03 12:00:00,,open,UTC
+DEMO-009,Meta,USA,2026-08-03 00:00:00,2026-08-03 18:00:00,open,America/New_York
+DEMO-010,Google,UK,2026-08-01 12:00:00,,open,Europe/London
+DEMO-011,Referral,India,2026-08-01 10:00:00,2026-08-04 10:00:00,open,Asia/Kolkata
+DEMO-012,Meta,UAE,2026-08-02 12:00:00,2026-08-03 10:00:00,joined,Asia/Dubai
+DEMO-013,Organic,Australia,2026-08-02 12:00:00,2026-08-03 09:00:00,completed,Australia/Sydney
+DEMO-014,Referral,Singapore,2026-08-02 12:00:00,2026-08-03 08:00:00,converted,Asia/Singapore
+DEMO-015,DSA,Vietnam,2026-08-02 12:00:00,,cancelled,Asia/Ho_Chi_Minh
+DEMO-016,Meta,USA,2026-08-02 12:00:00,2026-08-03 10:00:00,open,America/New_York
+DEMO-017,Google,USA,2026-08-02 18:00:00,2026-08-04 18:00:00,open,America/New_York
+DEMO-018,Google,USA,2026-08-01 13:00:00,,open,America/New_York

@@ -292,4 +292,3 @@ boundaries, statuses, deterministic capacity, timezones and Streamlit mode switc
 
 No database, CRM API, authentication, calendar engine, automatic outreach, black-box ML,
 or cloud deployment is required for this take-home.
-
